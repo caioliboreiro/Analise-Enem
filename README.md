@@ -25,6 +25,7 @@ O objetivo é compreender padrões nas notas participantes do exame através de 
 ├── README.md
 ```
 ⚠️ Devido ao tamanho dos arquivos, os microdados oficiais do ENEM 2023 não estão incluídos neste repositório.
+Entretanto, eles podem ser acessados aqui: https://drive.google.com/drive/folders/1PzVJnzXBowSaPXe_CgYUjP7nOx-E57l0
 
 ## O que foi analisado?
 - Distribuição de participantes por cidade
